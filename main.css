@@ -291,3 +291,5 @@ figure.photo img{display:block;width:100%;height:auto;border-radius:var(--r);bor
 .chipgrid a:hover{border-color:var(--teal-d)}
 @media(max-width:960px){.chipgrid{grid-template-columns:1fr 1fr}}
 @media(max-width:560px){.chipgrid{grid-template-columns:1fr}}
+
+.nb-h{margin:2rem 0 .5rem;font-size:1.2rem}
